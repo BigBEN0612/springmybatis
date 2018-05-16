@@ -11,5 +11,6 @@
 </head>
 <body>
 	<h1>Spring MVC + MyBatis</h1>
+	<h2>update test</h2>
 </body>
 </html>
